@@ -1,0 +1,5 @@
++ Change animations and status text to be sequential rather than parallel (draw one, then draw the other
++ player 1 vs. 2, maybe do a toast, when switching
++ pause for a break after a win to review game board (and add option to look at board)
++ improve CPU AI, such that it should rarely lose
++ Option to clear stats in the stats page (with confirmation Are you Sure?)
